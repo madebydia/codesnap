@@ -8,7 +8,7 @@
     "test": "node test.mjs"
   },
   "keywords": ["codesnap", "screenshots", "catppuccin", "code"],
-  "author": "Mei Park <hey@meimakes.com>",
+  "author": "Diana Park <diana@mama.dev>",
   "license": "MIT",
   "dependencies": {
     "playwright": "^1.58.2"

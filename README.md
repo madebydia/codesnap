@@ -1,6 +1,6 @@
 # codesnap
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)
 
 Generate pretty code screenshots from your terminal. Catppuccin Mocha and Latte themes, platform-optimized presets, auto font scaling.
 
